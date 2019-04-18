@@ -1,4 +1,4 @@
-![python 2.7](https://www.python.org/)
+
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **before using this scripts please change url webkooks ligne 13**
 
