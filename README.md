@@ -1,6 +1,6 @@
 
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **before using this scripts please change url webkooks ligne 13**
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **before using this scripts please change url webkooks line 13**
 
 # Sending notifications status using webhooks google
 
